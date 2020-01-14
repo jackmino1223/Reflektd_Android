@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "772318700677",
+    "firebase_url": "https://reflektd-180810.firebaseio.com",
+    "project_id": "reflektd-180810",
+    "storage_bucket": "reflektd-180810.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:772318700677:android:5edaeae3458b35b7",
+        "android_client_info": {
+          "package_name": "com.turen.reflektd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "772318700677-9rjbte0bvcf2adfopicm27lib773qjhk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfwV8NIWynHTUJdDTDTBq0AG4pMltjcEQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
